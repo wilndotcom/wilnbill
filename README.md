@@ -1,6 +1,6 @@
 # WilnBill - Modern WiFi Billing Management System
 
-![WilnBill](install/img/logo.png)
+![WilnBill](install/img/logo.svg)
 
 > **A complete reimagining of WiFi billing management with modern design and enhanced user experience**
 
