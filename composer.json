@@ -1,0 +1,16 @@
+{
+    "name": "wilndotcom/wilnbill",
+    "type": "template",
+    "description": "WilnBill a Hotspot Billing Software.",
+    "keywords": ["template","WilnBill","Mikrotik","Hotspot","Billing"],
+    "homepage": "https://github.com/wilndotcom/wilnbill",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wilndotcom",
+            "email": "wilndotcom",
+            "homepage": "https://wilndotcom",
+            "role": "Developer"
+        }
+    ]
+}
